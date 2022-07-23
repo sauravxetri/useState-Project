@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useState-Project/static/css/main.212cf200.css",
+    "main.js": "/useState-Project/static/js/main.4fbbfc9b.js",
+    "index.html": "/useState-Project/index.html",
+    "main.212cf200.css.map": "/useState-Project/static/css/main.212cf200.css.map",
+    "main.4fbbfc9b.js.map": "/useState-Project/static/js/main.4fbbfc9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.212cf200.css",
+    "static/js/main.4fbbfc9b.js"
+  ]
+}
